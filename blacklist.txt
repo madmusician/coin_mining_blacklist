@@ -589,7 +589,6 @@
 ||amazingbitcoin.org^
 ||amazingbtcdeposit.com^
 ||amazingdeposit.com^
-||amazonaws.com^
 ||amazonhash.com^
 ||ambis.biz^
 ||amdhlyqfy.bid^
@@ -1752,9 +1751,7 @@
 ||cloudcdn.gdn^
 ||cloudcoins.co^
 ||cloudflane.com^
-||cloudflare.net^
 ||cloudflare.solutions^
-||cloudfront.net^
 ||cloudhash.eu^
 ||cloudhashing.com^
 ||cloudmedia.gdn^
@@ -4820,7 +4817,6 @@
 ||kumekqeccmob.com^
 ||kuna.io^
 ||kunkmdvgwvfo.bid^
-||kunlunar.com^
 ||kunpoolsion.tk^
 ||kupprakim.bid^
 ||kuqbprozlqj.bid^
@@ -8527,7 +8523,6 @@
 ||urtbxola.bid^
 ||urwvswik.bid^
 ||us.cf^
-||us.to^
 ||us1eclipsemc.com^
 ||us2mine.com^
 ||usa-138.com^
